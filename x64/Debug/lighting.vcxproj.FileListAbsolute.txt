@@ -1,0 +1,1 @@
+E:\Files\c++ programming\opengl\GLFW\lighting\x64\Debug\lighting.exe

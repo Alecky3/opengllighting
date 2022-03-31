@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+E:\Files\c++ programming\opengl\GLFW\lighting\main.cpp(41,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+LINK : fatal error LNK1104: cannot open file 'glfw.lib'

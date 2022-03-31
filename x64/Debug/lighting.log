@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\Files\c++ programming\opengl\GLFW\lighting\main.cpp(94,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Files\c++ programming\opengl\GLFW\lighting\main.cpp(160,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\Files\c++ programming\opengl\GLFW\lighting\main.cpp(423,9): warning C4101: 'cubeVAO': unreferenced local variable
+  lighting.vcxproj -> E:\Files\c++ programming\opengl\GLFW\lighting\x64\Debug\lighting.exe
